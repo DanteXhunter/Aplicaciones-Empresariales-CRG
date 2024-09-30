@@ -1,7 +1,7 @@
 
 
 const os = require('os');
-/*
+
 console.log('Sistema operativo:', os.platform());
 
 const platform = os.platform();
@@ -24,6 +24,6 @@ console.log(cpuCoreLogic);
 
 const networkInterfaces = os.networkInterfaces();
 console.log(networkInterfaces);
-*/
+
 const homeDir = os.homedir();
 console.log(homeDir);
